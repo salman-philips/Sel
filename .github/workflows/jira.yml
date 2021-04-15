@@ -21,4 +21,4 @@ jobs:
           JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
           JIRA_DOMAIN: 'healthparenting.atlassian.net'
           JIRA_USER: 'mohamedsalman.siddiq@philips.com'
-          JIRA_PROJECT_NAME: 'Test Project'
+          JIRA_PROJECT_NAME: 'TP'
